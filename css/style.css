@@ -38,6 +38,7 @@ a.btn:hover {
   transition: 1s;
   background-color: #000;
   color: #fff;
+  border: 1px solid #f4f4f0;
 }
 
 section {
