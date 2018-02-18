@@ -124,12 +124,9 @@ body {
 
 hr {
   margin-bottom: 55px;
-}
-
-hr.hr {
-	height: 10px;
-	border: 0;
-	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+  height: 10px;
+  border: 0;
+  box-shadow: 0 10px 10px -10px #8c8b8b inset;
   width: 500px
 }
 
@@ -211,6 +208,10 @@ i {
 
   .hero a.btn {
     padding: 15px 40px;
+  }
+  
+  hr {
+    width: 300px;
   }
 
   footer {
